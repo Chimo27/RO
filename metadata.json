@@ -1,0 +1,8 @@
+{
+  "name": "S5 Compass",
+  "description": "Guide d'entraide et répertoire pédagogique pour les étudiants du Semestre 5 en Recherche Opérationnelle & Science de la Décision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
